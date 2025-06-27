@@ -60,27 +60,34 @@
 
 ---
 
-## 💻 Competitive Programming
+## 👨‍💻 Competitive Programming Stats
 
-### 🏁 Platforms
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-profile)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521354-2944792.png" width="80" height="80" alt="CodeChef logo" />
+      <br/>
+      <strong><a href="https://www.codechef.com/users/dhiraj_patil27">CodeChef Profile</a></strong><br/>
+      <ul>
+        <li>🔹 Username: dhiraj_patil27</li>
+        <li>🔸 Platform: CodeChef</li>
+        <li>🏆 Participate in rated contests</li>
+        <li>📈 Track ratings & submissions</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80" height="80" alt="LeetCode logo" />
+      <br/>
+      <strong><a href="https://leetcode.com/u/OIUWMXpKC4/">LeetCode Profile</a></strong><br/>
+      <ul>
+        <li>🔹 Profile: OIUWMXpKC4</li>
+        <li>💻 Solved hundreds of coding problems</li>
+        <li>🔥 Focus on DSA, algorithms & patterns</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 📈 Visual Stats (LeetCode + CodeChef)
-
-#### 📊 LeetCode Graph:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo%20Bhai" />
-</p>
-
-#### 🎯 CodeChef Contest Graph (via rating history):
-<p align="center">
-  <img src="https://cp-leaderboard-api.vercel.app/api/codechef?username=your-codechef-username&type=line" alt="CodeChef graph" />
-</p>
-
-> 💡 *Update `your-leetcode-username` and `your-codechef-username` with your actual usernames.*
-
----
 
 ## 📈 GitHub Stats
 
