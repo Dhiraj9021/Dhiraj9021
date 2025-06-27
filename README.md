@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Patil</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🧠 Data Science Student | 📊 Data Visualization Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🧠 CSE Data Science Student | 📊 Data Enthusiast</h3>
 
 ---
 
 ## 📌 About Me
 
-🎓 CSE (Data Science) student passionate about code, logic, and innovation.  
-💡 I build full-stack apps, create interactive dashboards, and solve real-world data problems.  
-🧠 I believe in learning by building and contributing.  
-📫 Email: **dhirajpatil09021@gmail.com**
+🎓 I'm a Computer Science (Data Science) student passionate about building web applications and visualizing data.  
+💡 I thrive on solving real-world problems through clean code and creative thinking.  
+📬 Contact me at: **dhirajpatil09021@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
@@ -32,7 +31,7 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
-### 🧰 Tools & IDEs
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
@@ -43,17 +42,43 @@
 
 ## 📚 Projects
 
-### 🚗 Vehicle Rental Website (MERN)
-🛻 Multi-vehicle rental app with login/signup, booking, cancelation, and user dashboard.
+### 🚗 Vehicle Rental Website
+- MERN stack-based platform to book and manage rental vehicles (bike/car/scooty)  
+- Features: Login, Booking System, My Bookings Dashboard, Cancel Booking
 
-### 🧑‍💻 Personal Portfolio Website
-🎨 Responsive portfolio with Tailwind, project links, contact, GitHub stats.
+### 🌐 Personal Portfolio
+- Fully responsive portfolio using Tailwind CSS + HTML  
+- GitHub stats, project showcase, dark mode, contact form
 
-### 🌍 Language Translator App
-🌐 Translate text between languages using public APIs, built with React.
+### 🌍 Language Translator
+- Real-time language conversion using external API  
+- Built with React & Tailwind
 
 ### 🚛 Garbage Truck Tracker
-🛰️ Tracks real-time garbage truck movement—smart city initiative app.
+- Real-time garbage route tracking for smart cities  
+- Tech: HTML, JS, Google Maps API
+
+---
+
+## 💻 Competitive Programming
+
+### 🏁 Platforms
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-profile)
+
+### 📈 Visual Stats (LeetCode + CodeChef)
+
+#### 📊 LeetCode Graph:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo%20Bhai" />
+</p>
+
+#### 🎯 CodeChef Contest Graph (via rating history):
+<p align="center">
+  <img src="https://cp-leaderboard-api.vercel.app/api/codechef?username=your-codechef-username&type=line" alt="CodeChef graph" />
+</p>
+
+> 💡 *Update `your-leetcode-username` and `your-codechef-username` with your actual usernames.*
 
 ---
 
@@ -66,36 +91,21 @@
 
 ---
 
-## 🔥 GitHub Streak & Heatmap
+## 🔥 GitHub Heatmap
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhiraj9021&theme=tokyonight&hide_border=true" />
-  <br><br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhiraj9021&theme=react-dark&bg_color=1d1f21&hide_border=true&line=00ccff&point=ffffff" />
 </p>
 
 ---
 
-## 👨‍💻 Competitive Programming
+## 🌐 Contact & Connect
 
-### 🏆 Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-profile)
-
-### 📊 Visual CP Progress Graph
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-profile?theme=dark&font=Baloo%20Bhai" />
-</p>
-
-> ⏳ Add your `username` to the LeetCard URL above and keep leveling up!
+- 📫 Email: **dhirajpatil09021@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+- [LeetCode](https://leetcode.com/your-profile)
+- [CodeChef](https://www.codechef.com/users/your-profile)
 
 ---
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-📧 Email: **dhirajpatil09021@gmail.com**
-
----
-
-> 💬 “I don’t just write code, I craft tech solutions to real-world problems.”
+> 💬 *“Code with logic. Build with passion. Visualize with clarity.”*
