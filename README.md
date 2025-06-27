@@ -1,20 +1,36 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Patil</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🧠 CSE Data Science Student | 📊 Data Enthusiast</h3>
+<p align="center">
+  <a href="mailto:dhirajpatil09021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhiraj-patil0902/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/OIUWMXpKC4/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/dhiraj_patil27">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📌 About Me
 
-🎓 I'm a Computer Science (Data Science) student passionate about building web applications and visualizing data.  
-💡 I thrive on solving real-world problems through clean code and creative thinking.  
-📬 Contact me at: **dhirajpatil09021@gmail.com**
+#### 🎓 I'm a Computer Science (Data Science) student passionate about building web applications and visualizing data.  
+#### 💡 I thrive on solving real-world problems through clean code and creative thinking.  
+#### 💻 I love coding, solving real-world problems, and continuously learning new technologies.
+#### 🌱 Currently sharpening my skills in full-stack development, API integration, and data visualization.
+####  📬 Reach me at: **dhirajpatil09021@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
@@ -42,51 +58,60 @@
 
 ## 📚 Projects
 
-### 🚗 Vehicle Rental Website
-- MERN stack-based platform to book and manage rental vehicles (bike/car/scooty)  
-- Features: Login, Booking System, My Bookings Dashboard, Cancel Booking
 
-### 🌐 Personal Portfolio
-- Fully responsive portfolio using Tailwind CSS + HTML  
-- GitHub stats, project showcase, dark mode, contact form
+### 🚗 Vehicle Rental Website – **Rent4Go**
+A full-featured MERN stack vehicle rental platform.  
+Users can rent bikes, cars, and scooters through an intuitive UI with secure login and booking management.
 
-### 🌍 Language Translator
-- Real-time language conversion using external API  
-- Built with React & Tailwind
+- 🛠 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT Auth  
+- 🌐 **Live Demo:** [Rent4Go Live](https://vehicle-rent-website.onrender.com)  
 
-### 🚛 Garbage Truck Tracker
-- Real-time garbage route tracking for smart cities  
-- Tech: HTML, JS, Google Maps API
 
 ---
 
-## 👨‍💻 Competitive Programming Stats
+### 🌐 Personal Portfolio Website  
+A sleek, mobile-responsive portfolio built with Tailwind CSS.  
+Showcases your skills, GitHub stats, and contact form with smooth transitions and dark mode toggle.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521354-2944792.png" width="80" height="80" alt="CodeChef logo" />
-      <br/>
-      <strong><a href="https://www.codechef.com/users/dhiraj_patil27">CodeChef Profile</a></strong><br/>
-      <ul>
-        <li>🔹 Username: dhiraj_patil27</li>
-        <li>🔸 Platform: CodeChef</li>
-        <li>🏆 Participate in rated contests</li>
-        <li>📈 Track ratings & submissions</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80" height="80" alt="LeetCode logo" />
-      <br/>
-      <strong><a href="https://leetcode.com/u/OIUWMXpKC4/">LeetCode Profile</a></strong><br/>
-      <ul>
-        <li>🔹 Profile: OIUWMXpKC4</li>
-        <li>💻 Solved hundreds of coding problems</li>
-        <li>🔥 Focus on DSA, algorithms & patterns</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🛠 **Tech Stack:** HTML5, Tailwind CSS, JavaScript  
+- 🌐 **Live Demo:** [My Portfolio](https://dhiraj-portfolio-seven.vercel.app/)  
+
+---
+
+### 🌍 Language Translator App  
+Translate any text into multiple languages instantly.  
+Uses language APIs to provide accurate translations with a clean and responsive UI.
+ 
+- 🛠 **Tech Stack:** React.js, Tailwind CSS, Language Translation API  
+- 🌐 **Live Demo:** [Translator App](https://your-translator-url.com)  
+
+
+---
+
+### 🚛 Garbage Truck Tracker  
+Smart city web app to track garbage vehicles on a map.  
+Helps optimize waste collection routes and provide visibility to users.
+
+- 🛠 **Tech Stack:** JavaScript, HTML5, CSS3, Google Maps API  
+- 🌐 **Live Demo:** [Tracker Demo](https://your-tracker-url.com)  
+
+---
+
+## 💻 Competitive Programming
+
+### 🏁 My Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/OIUWMXpKC4/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/dhiraj_patil27">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 
 
 ## 📈 GitHub Stats
@@ -98,20 +123,24 @@
 
 ---
 
-## 🔥 GitHub Heatmap
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhiraj9021&theme=react-dark&bg_color=1d1f21&hide_border=true&line=00ccff&point=ffffff" />
-</p>
-
----
 
 ## 🌐 Contact & Connect
 
-- 📫 Email: **dhirajpatil09021@gmail.com**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-- [LeetCode](https://leetcode.com/your-profile)
-- [CodeChef](https://www.codechef.com/users/your-profile)
+<p align="center">
+  <a href="mailto:dhirajpatil09021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhiraj-patil0902/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/OIUWMXpKC4/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/dhiraj_patil27">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
